@@ -1,0 +1,23 @@
+body {
+    background-color: cornflowerblue;
+}
+    
+ form {   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px;
+    color: rgb(100, 20, 0);
+}
+
+button {
+    background-color: dimgrey;
+}
+
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-style: italic;
+    color: linen;
+    ;
+
+}
